@@ -5,6 +5,9 @@
         "./src/*"
       ]
     },
+    "types": [
+      "node"
+    ],
     /* Bundler mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
